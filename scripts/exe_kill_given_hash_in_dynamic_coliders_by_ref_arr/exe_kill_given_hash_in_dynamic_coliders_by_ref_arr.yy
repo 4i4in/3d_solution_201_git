@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_kill_given_hash_in_dynamic_coliders_by_ref_arr",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_kill_given_hash_in_dynamic_coliders_by_ref_arr",
+  "parent":{
+    "name":"activators",
+    "path":"folders/Scripts/moves_on_3d_map/activators.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

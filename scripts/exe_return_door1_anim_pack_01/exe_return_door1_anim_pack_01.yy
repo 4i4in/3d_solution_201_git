@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_return_door1_anim_pack_01",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_return_door1_anim_pack_01",
+  "parent":{
+    "name":"door1",
+    "path":"folders/Scripts/reference_struct/door1.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

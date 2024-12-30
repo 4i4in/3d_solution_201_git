@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"exe_debug_show_dynamic_colider_arr",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"exe_debug_show_dynamic_colider_arr",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
